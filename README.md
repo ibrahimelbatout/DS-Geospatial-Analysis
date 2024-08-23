@@ -38,6 +38,11 @@ To run this project locally, follow these steps:
 
 Each folder contains code specific to the analysis of Gaza, the West Bank, and the combined regions. You can run the Jupyter notebooks or Python scripts independently:
 
+Acknowledgments
+
+This project was inspired by Milan Janosov and driven by a desire to use data science for meaningful causes. 
+The visualization serves as a stark reminder of the tragic events in Palestine, with red lines representing the bloodshed on the ground.
+
 ```bash
 cd gaza
 jupyter notebook gaza_analysis.ipynb
